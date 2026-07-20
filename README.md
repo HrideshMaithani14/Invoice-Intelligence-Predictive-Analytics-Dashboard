@@ -74,7 +74,7 @@ Developed a **Predictive Analytics Dashboard [X]** capable of real-time financia
 
 ## 🤝 Connect with Me
 
-* **LinkedIn:** [Hridesh Maithani](inkedin.com/in/hridesh-maithani-00a059391/?skipRedirect=true)
+* **LinkedIn:** [Hridesh Maithani]([inkedin.com/in/hridesh-maithani-00a059391/?skipRedirect=true](https://www.linkedin.com/in/hridesh-maithani-00a059391/))
 * **Portfolio:** [Portfolio Website]([https://www.google.com/search?q=https://your-portfolio.com](https://hrideshmaithaidatascientist.netlify.app/))
 
 ```

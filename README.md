@@ -18,7 +18,7 @@ An end-to-end machine learning web application built to automate financial anoma
 
 ## 🛠️ Tech Stack
 
-* **Frontend/UI:** [Streamlit](https://streamlit.io/)
+* **Frontend/UI:** [Streamlit](https://invoice-intelligence-predictive-analytics-dashboard.streamlit.app/)
 * **Data Manipulation:** Pandas, NumPy
 * **Machine Learning:** Scikit-learn, Joblib
 * **Data Visualization:** Plotly Express
@@ -74,8 +74,8 @@ Developed a **Predictive Analytics Dashboard [X]** capable of real-time financia
 
 ## 🤝 Connect with Me
 
-* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-* **Portfolio:** [Your Portfolio Website](https://www.google.com/search?q=https://your-portfolio.com)
+* **LinkedIn:** [Hridesh Maithani](inkedin.com/in/hridesh-maithani-00a059391/?skipRedirect=true)
+* **Portfolio:** [Portfolio Website]([https://www.google.com/search?q=https://your-portfolio.com](https://hrideshmaithaidatascientist.netlify.app/))
 
 ```
 
